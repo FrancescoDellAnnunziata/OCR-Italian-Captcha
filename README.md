@@ -11,5 +11,5 @@ Fine-tuned TrOCR model (base) for solving Italian ministerial captchas.
     - Create Venv
     - Install requirements.txt
     - Feel free to add/change other image, NAME MUST BE THE REAL WORD INSIDE THE IMAGE
-    - Run TrOCR-Fine-Tuning.ipynb.ipynb in order to fine tune the model
+    - Run TrOCR-Fine-Tuning.ipynb in order to fine tune the model
     - Run Prediction.ipynb to test OCR and see how to use the fine tuned model
